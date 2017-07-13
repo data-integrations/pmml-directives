@@ -1,2 +1,1 @@
-# ml-directives
-A collection of ML directives. 
+# A collection of PMML directives
